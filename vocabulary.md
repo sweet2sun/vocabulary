@@ -4,6 +4,16 @@
 
 | Word | 품사 | 뜻 | 예문 | 출처 | 추가일 |
 |------|------|----|------|------|--------|
+| adaptability | noun | 적응력, 유연성 | Employers increasingly value adaptability over deep expertise in a single domain. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| springboard | noun | 발판, 디딤돌 | An internship at a leading firm can serve as a springboard to a successful career. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| consortium | noun | 컨소시엄, 합작단체 | Several universities formed a consortium to share research data on workforce trends. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| pessimistic | adj. | 비관적인 | Analysts remain pessimistic about the recovery timeline for the retail sector. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| erosion | noun | 침식, 약화 | The gradual erosion of middle-management roles has reshaped corporate hierarchies. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| reimagine | verb | 재구상하다, 새롭게 상상하다 | Business schools are challenging students to reimagine outdated management frameworks. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| unravel | verb | 풀리다, 해체되다 | Years of stable employment norms began to unravel as gig economy platforms expanded. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| upheaval | noun | 격변, 대변동 | The rapid shift to remote work caused organizational upheaval across traditional industries. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| evaporate | verb | 증발하다, 사라지다 | If funding dries up, thousands of research positions could evaporate within months. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| mundane | adj. | 평범한, 단조로운 | Automating mundane administrative duties allows staff to focus on strategic planning. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
 | panacea | noun | 만병통치약, 만능 해결책 | Experts caution that adding fiber to processed snacks is not a panacea for poor dietary habits. | [Protein is so last year. Why fiber is the next big thing](https://edition.cnn.com/2026/01/25/food/fiber-food-trends-2026) | 2026-02-16 |
 | bolster | verb | 강화하다, 뒷받침하다 | New research findings bolster the claim that gut health is linked to overall well-being. | [Protein is so last year. Why fiber is the next big thing](https://edition.cnn.com/2026/01/25/food/fiber-food-trends-2026) | 2026-02-16 |
 | callout | noun | (패키지 등의) 강조 문구, 눈에 띄는 표기 | Whole Foods noted more fiber-forward callouts on packaging across its stores. | [Protein is so last year. Why fiber is the next big thing](https://edition.cnn.com/2026/01/25/food/fiber-food-trends-2026) | 2026-02-16 |
@@ -32,6 +42,13 @@
 
 | Phrase | 뜻 | 예문 | 출처 | 추가일 |
 |--------|----|------|------|--------|
+| in a matter of hours | 불과 몇 시간 만에 | Tasks that previously required a full week can now be completed in a matter of hours with AI assistance. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| creep into | 서서히 스며들다, 침투하다 | Automation has been creeping into creative fields that were once considered immune to disruption. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| waiting in the wings | 대기하고 있는, 출번을 기다리는 | A new cohort of AI-literate professionals is waiting in the wings for leadership opportunities. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| find one's footing | 자리를 잡다, 기반을 마련하다 | It took the startup nearly two years to find its footing in the crowded fintech market. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| stare down | ~에 맞서다, ~에 직면하다 | The entire industry is staring down a wave of regulatory changes that could reshape operations. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| cut one's teeth on | ~으로 경험을 쌓다, 실력을 키우다 | Most successful executives cut their teeth on challenging projects early in their careers. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
+| the bottom rung of the ladder | 사다리의 가장 아래 단계, 최하위 | Many graduates struggle to even reach the bottom rung of the ladder in today's competitive market. | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | 2026-02-16 |
 | fixated on | ~에 집착하는, 몰두하는 | Younger consumers are increasingly fixated on transparency in food labeling. | [Protein is so last year. Why fiber is the next big thing](https://edition.cnn.com/2026/01/25/food/fiber-food-trends-2026) | 2026-02-16 |
 | the irony is | 아이러니한 것은 | The irony is that the healthiest options are often the cheapest ones at the market. | [Protein is so last year. Why fiber is the next big thing](https://edition.cnn.com/2026/01/25/food/fiber-food-trends-2026) | 2026-02-16 |
 | willing to make a trade | 기꺼이 양보/절충하다 | Most consumers are willing to make a trade on price, but not on flavor. | [Protein is so last year. Why fiber is the next big thing](https://edition.cnn.com/2026/01/25/food/fiber-food-trends-2026) | 2026-02-16 |
@@ -49,5 +66,6 @@
 
 | 제목 | 매체 | 날짜 | 단어 | 구문 | 분석일 |
 |------|------|------|------|------|--------|
+| [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | The New York Times | 2025-05-19 | 10 | 7 | 2026-02-16 |
 | [Protein is so last year. Why fiber is the next big thing](https://edition.cnn.com/2026/01/25/food/fiber-food-trends-2026) | CNN Business | 2026-01-25 | 10 | 6 | 2026-02-16 |
 | [In 2026, AI will move from hype to pragmatism](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/) | TechCrunch | 2026-01-02 | 10 | 6 | 2026-02-16 |
