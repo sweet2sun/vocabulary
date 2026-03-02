@@ -4,6 +4,16 @@
 
 | Word | 품사 | 뜻 | 예문 | 출처 | 추가일 |
 |------|------|----|------|------|--------|
+| repurpose | verb | 용도를 변경하다, 재활용하다 | Architects increasingly repurpose old factories into trendy co-working spaces. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| gastronomy | noun | 미식학, 요리법 | Barcelona has become a global capital of gastronomy with its avant-garde restaurant scene. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| ambiance | noun | 분위기, 환경 | Soft lighting and live piano music create a warm ambiance in the dining room. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| juxtapose | verb | 병치하다, 나란히 놓다 | The designer chose to juxtapose industrial materials with delicate floral arrangements. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| curated | adj. | 큐레이팅된, 엄선된 | The restaurant features a carefully curated wine list focusing on organic producers. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| bespoke | adj. | 맞춤형의, 주문 제작의 | The hotel offers bespoke cocktails tailored to each guest's flavor preferences. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| eclectic | adj. | 절충적인, 다양한 것을 혼합한 | The chef's eclectic approach draws inspiration from cuisines spanning three continents. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| moquette | noun | 모켓 (교통수단 좌석용 두꺼운 직물) | The bus company chose a durable moquette fabric for its new fleet of double-deckers. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| decommissioned | adj. | 퇴역한, 운용 정지된 | A decommissioned naval vessel was transformed into a floating museum in the harbor. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| disused | adj. | 폐쇄된, 사용되지 않는 | The city council plans to convert the disused railway station into a community arts center. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
 | marquetry | noun | 목재 상감세공, 나무 모자이크 장식 | The antique desk featured intricate marquetry patterns made from exotic woods. | [Inside the Venice Simplon-Orient-Express...](https://edition.cnn.com/2025/12/26/style/video/venice-simplon-orient-express-spc-digvid) | 2026-03-01 |
 | opulent | adj. | 호화로운, 사치스러운 | The hotel lobby was decorated in an opulent style reminiscent of the Belle Époque era. | [Inside the Venice Simplon-Orient-Express...](https://edition.cnn.com/2025/12/26/style/video/venice-simplon-orient-express-spc-digvid) | 2026-03-01 |
 | carriage | noun | (열차) 객차, 차량 | Each carriage on the luxury train has been meticulously restored to its original Art Deco splendor. | [Inside the Venice Simplon-Orient-Express...](https://edition.cnn.com/2025/12/26/style/video/venice-simplon-orient-express-spc-digvid) | 2026-03-01 |
@@ -68,6 +78,12 @@
 
 | Phrase | 뜻 | 예문 | 출처 | 추가일 |
 |--------|----|------|------|--------|
+| seasonal produce | 제철 식재료 | The farm-to-table concept relies on sourcing seasonal produce directly from nearby growers. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| focal point | 중심점, 초점 | Rather than relying on gimmicks, the restaurant keeps its cuisine as the focal point of the experience. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| vintage charm | 빈티지 매력, 옛것의 멋 | The café retained its vintage charm by preserving the original 1920s tile work and brass fixtures. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| hidden gem | 숨겨진 보석, 잘 알려지지 않은 명소 | Tucked away in a narrow alley, the tiny ramen shop is a true hidden gem among Tokyo's food scene. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| a dining experience with a difference | 색다른/특별한 식사 경험 | The rooftop greenhouse offers a dining experience with a difference, surrounded by the very herbs used in each dish. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
+| tasting menu | 테이스팅 메뉴, 셰프 추천 코스 요리 | The Michelin-starred restaurant unveiled a seasonal tasting menu featuring locally foraged ingredients. | [London's underground supperclub.tube...](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | 2026-03-02 |
 | redefine slow luxury | 슬로우 럭셔리를 재정의하다 | Boutique hotels in rural Tuscany are redefining slow luxury by prioritizing local culture over extravagance. | [Inside the Venice Simplon-Orient-Express...](https://edition.cnn.com/2025/12/26/style/video/venice-simplon-orient-express-spc-digvid) | 2026-03-01 |
 | the jewel in the crown | 가장 빛나는 보석, 최고의 자랑거리 | The new research center is the jewel in the crown of the university's science campus. | [Inside the Venice Simplon-Orient-Express...](https://edition.cnn.com/2025/12/26/style/video/venice-simplon-orient-express-spc-digvid) | 2026-03-01 |
 | cabinet of curiosity | 호기심의 방 (르네상스 시대 진귀한 물건 전시실) | The designer styled the living room as a modern cabinet of curiosity filled with artifacts from around the world. | [Inside the Venice Simplon-Orient-Express...](https://edition.cnn.com/2025/12/26/style/video/venice-simplon-orient-express-spc-digvid) | 2026-03-01 |
@@ -110,6 +126,7 @@
 
 | 제목 | 매체 | 날짜 | 단어 | 구문 | 분석일 |
 |------|------|------|------|------|--------|
+| [London's underground supperclub.tube dining experience](https://edition.cnn.com/2025/12/29/travel/video/supperclub-tube-london-spc-digvid) | CNN Travel | 2025-12-29 | 10 | 6 | 2026-03-02 |
 | [Inside the Venice Simplon-Orient-Express, the train redefining slow luxury travel](https://edition.cnn.com/2025/12/26/style/video/venice-simplon-orient-express-spc-digvid) | CNN Style | 2025-12-26 | 10 | 7 | 2026-03-01 |
 | [We Let AI Run a Vending Machine. It Stocked a Live Fish and a PlayStation.](https://www.wsj.com/video/series/joanna-stern-personal-technology/we-let-ai-run-a-vending-machine-it-stocked-a-live-fish-and-a-playstation/ECA7F3CD-BA6F-4F34-9D2E-2B94571A0C68) | The Wall Street Journal | 2025-12-19 | 12 | 7 | 2026-02-21 |
 | [I'm a LinkedIn Executive. I See the Bottom Rung of the Career Ladder Breaking.](https://www.nytimes.com/2025/05/19/opinion/linkedin-ai-entry-level-jobs.html) | The New York Times | 2025-05-19 | 10 | 7 | 2026-02-16 |
